@@ -1,5 +1,0 @@
-#define CODE_1 "XXXX"
-#define CODE_2 "XXXX"
-#define CODE_3 "XXXX"
-#define CODE_4 "XXXX"
-#define CODE_5 "XXXX"
