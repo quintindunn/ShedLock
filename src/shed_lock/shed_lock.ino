@@ -11,7 +11,7 @@
 #define LOCKED_ANGLE 90
 #define UNLOCKED_ANGLE 0
 
-#define BUZZER_PIN 13
+#define BUZZER_PIN 11
 #define INTERNAL_BTN A0
 
 #define KEYPAD_1 8
@@ -26,8 +26,8 @@
 #define KEYPAD_ENTER '#'
 #define CLEAR_KEYPAD_ON_FAIL true
 
-#define STEPPER_DIR 12
-#define STEPPER_STP 11
+#define STEPPER_DIR 13
+#define STEPPER_STP 12
 
 #define DISPLAY_DTA 10
 #define DISPLAY_CLK 9
